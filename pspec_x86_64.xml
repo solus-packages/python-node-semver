@@ -2,8 +2,8 @@
     <Source>
         <Name>python-node-semver</Name>
         <Packager>
-            <Name>Marc-André Renaud</Name>
-            <Email>ma.renaud@slashvoid.com</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>programming.python</PartOf>
@@ -19,63 +19,63 @@
 </Description>
         <PartOf>programming.python</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/node_semver-0.7.0-py3.6.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/node_semver-0.7.0-py3.6.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/node_semver-0.7.0-py3.6.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/node_semver-0.7.0-py3.6.egg-info/entry_points.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/node_semver-0.7.0-py3.6.egg-info/not-zip-safe</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/node_semver-0.7.0-py3.6.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/node_semver-0.7.0-py3.6.egg-info/top_level.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/__pycache__/__init__.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/__pycache__/__init__.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/__pycache__/test_comparators.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/__pycache__/test_comparison.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/__pycache__/test_equality.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/__pycache__/test_for_4digit.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/__pycache__/test_increment_version.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/__pycache__/test_intersect_comparators.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/__pycache__/test_invalid_version_number.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/__pycache__/test_max_satisfying.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/__pycache__/test_min_satisfying.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/__pycache__/test_negative_range.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/__pycache__/test_passing_bytes.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/__pycache__/test_range.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/__pycache__/test_range_test_method.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/__pycache__/test_recovery.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/__pycache__/test_regression.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/__pycache__/test_sort.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/__pycache__/test_strict_vs_loose_version_number.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/__pycache__/test_valid_range.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/test_comparators.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/test_comparison.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/test_equality.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/test_for_4digit.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/test_increment_version.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/test_intersect_comparators.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/test_invalid_version_number.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/test_max_satisfying.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/test_min_satisfying.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/test_negative_range.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/test_passing_bytes.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/test_range.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/test_range_test_method.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/test_recovery.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/test_regression.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/test_sort.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/test_strict_vs_loose_version_number.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/test_valid_range.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/semver/tests/todo.md</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/node_semver-0.7.0-py3.7.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/node_semver-0.7.0-py3.7.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/node_semver-0.7.0-py3.7.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/node_semver-0.7.0-py3.7.egg-info/entry_points.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/node_semver-0.7.0-py3.7.egg-info/not-zip-safe</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/node_semver-0.7.0-py3.7.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/node_semver-0.7.0-py3.7.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/__pycache__/__init__.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/__pycache__/__init__.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/__pycache__/test_comparators.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/__pycache__/test_comparison.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/__pycache__/test_equality.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/__pycache__/test_for_4digit.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/__pycache__/test_increment_version.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/__pycache__/test_intersect_comparators.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/__pycache__/test_invalid_version_number.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/__pycache__/test_max_satisfying.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/__pycache__/test_min_satisfying.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/__pycache__/test_negative_range.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/__pycache__/test_passing_bytes.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/__pycache__/test_range.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/__pycache__/test_range_test_method.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/__pycache__/test_recovery.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/__pycache__/test_regression.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/__pycache__/test_sort.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/__pycache__/test_strict_vs_loose_version_number.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/__pycache__/test_valid_range.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/test_comparators.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/test_comparison.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/test_equality.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/test_for_4digit.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/test_increment_version.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/test_intersect_comparators.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/test_invalid_version_number.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/test_max_satisfying.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/test_min_satisfying.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/test_negative_range.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/test_passing_bytes.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/test_range.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/test_range_test_method.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/test_recovery.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/test_regression.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/test_sort.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/test_strict_vs_loose_version_number.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/test_valid_range.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/semver/tests/todo.md</Path>
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2019-09-09</Date>
+        <Update release="2">
+            <Date>2020-02-05</Date>
             <Version>0.7.0</Version>
             <Comment>Packaging update</Comment>
-            <Name>Marc-André Renaud</Name>
-            <Email>ma.renaud@slashvoid.com</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Update>
     </History>
 </PISI>

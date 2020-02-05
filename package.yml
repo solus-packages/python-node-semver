@@ -1,6 +1,6 @@
 name       : python-node-semver
 version    : 0.7.0
-release    : 1
+release    : 2
 source     :
     - https://files.pythonhosted.org/packages/8a/2f/88e7e0f758b7a99c95556dae788a07ce9379489263f8e5352587328ce606/node-semver-0.7.0.tar.gz : 21b9a02069a71c4936b211eea4c600e78cf9ceb03ecc0272186c4ac5c3b4f1dc
 license    : MIT
